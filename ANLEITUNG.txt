@@ -1,0 +1,11 @@
+GITHUB-PAGES-VORSCHAU (ohne Unterordner)
+
+Alle Dateien liegen in EINEM Ordner - es gibt keine Unterordner mehr.
+
+1. ZIP entpacken und den Ordner up-in-smoke-lounge-soltau oeffnen.
+2. Darin ALLE Dateien markieren (Strg+A) und in GitHub bei
+   Add file > Upload files hineinziehen. Commit changes klicken.
+3. Settings > Pages > Deploy from a branch > main > / (root) > Save.
+4. 1-2 Minuten warten, dann https://seitenwerkde.github.io/up-in-smoke-lounge-soltau/ oeffnen.
+
+Alte Dateien/Ordner (assets, impressum, datenschutz) im Repository vorher loeschen.

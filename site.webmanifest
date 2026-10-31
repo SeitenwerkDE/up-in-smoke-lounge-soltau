@@ -1,0 +1,14 @@
+{
+  "name": "UP IN SMOKE LOUNGE",
+  "short_name": "Up in Smoke",
+  "description": "Shisha Bar, Café und Lounge in Soltau.",
+  "start_url": "/up-in-smoke-lounge-soltau/",
+  "display": "standalone",
+  "background_color": "#0c0c0c",
+  "theme_color": "#0c0c0c",
+  "icons": [
+    { "src": "/up-in-smoke-lounge-soltau/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/up-in-smoke-lounge-soltau/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/up-in-smoke-lounge-soltau/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
